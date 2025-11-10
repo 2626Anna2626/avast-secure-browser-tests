@@ -9,6 +9,17 @@ export default defineConfig({
     video: 'retain-on-failure',
     trace: 'retain-on-failure',
   },
+  reporter: [
+    ['list'],
+    [
+      'playwright-qase-reporter',
+      {
+        configFile: 'qase.config.json',
+        // режим, при котором результаты шлются в Qase
+        mode: 'testops'
+      }
+    ]
+  ],
   projects: [
     {
       name: 'Avast Secure Browser',

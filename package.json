@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "playwright test"
+    "test": "playwright test",
+    "test:qase": "QASE_MODE=testops playwright test"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +13,7 @@
   "devDependencies": {
     "@playwright/test": "^1.56.1",
     "@types/node": "^24.10.0",
+    "playwright-qase-reporter": "^2.1.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
