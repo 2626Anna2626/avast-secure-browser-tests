@@ -1,0 +1,6 @@
+node_modules
+playwright-report
+test-results
+.gitenv
+.DS_Store
+qase.config.json
