@@ -1,0 +1,346 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - link "Ušetřete 54 % za Premium Security" [ref=e9] [cursor=pointer]:
+      - /url: https://www.avast.com/cs-cz/premium-security
+      - paragraph [ref=e13]: Ušetřete 54 % za Premium Security
+    - banner [ref=e20]:
+      - link "Avast" [ref=e25] [cursor=pointer]:
+        - /url: https://www.avast.com/cs-cz/index
+        - img "Avast" [ref=e27]
+      - generic [ref=e28]:
+        - navigation [ref=e29]:
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - link "Domácnosti" [ref=e32] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/index
+                - generic [ref=e33]: Domácnosti
+            - listitem [ref=e34]:
+              - link "Firmy" [ref=e35] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/business
+                - generic [ref=e36]: Firmy
+            - listitem [ref=e37]:
+              - link "Partneři" [ref=e38] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/partners
+                - generic [ref=e39]: Partneři
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "O nás" [ref=e42] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/about
+                - generic [ref=e43]: O nás
+            - listitem [ref=e44]:
+              - generic [ref=e46] [cursor=pointer]: Blogy
+            - listitem
+            - listitem [ref=e47]:
+              - button "Česká republika" [ref=e48] [cursor=pointer]:
+                - img [ref=e49]
+                - generic [ref=e50]: Česká republika
+        - navigation [ref=e51]:
+          - list [ref=e52]:
+            - listitem "Zabezpečení" [ref=e53]:
+              - button "Zabezpečení" [ref=e54] [cursor=pointer]:
+                - generic [ref=e55]: Zabezpečení
+            - listitem "Soukromí" [ref=e56]:
+              - button "Soukromí" [ref=e57] [cursor=pointer]:
+                - generic [ref=e58]: Soukromí
+            - listitem "Výkon" [ref=e59]:
+              - button "Výkon" [ref=e60] [cursor=pointer]:
+                - generic [ref=e61]: Výkon
+            - listitem
+            - listitem "Obchod" [ref=e62]:
+              - link "Obchod" [ref=e63] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/store
+                - generic [ref=e65]: Obchod
+          - list [ref=e66]:
+            - listitem "Podpora" [ref=e67]:
+              - link "Podpora" [ref=e68] [cursor=pointer]:
+                - /url: https://support.avast.com/index?inid=avastcom-homepage_topnav_support
+                - generic [ref=e70]: Podpora
+            - listitem "Účet" [ref=e71]:
+              - link "Účet" [ref=e72] [cursor=pointer]:
+                - /url: https://id.avast.com/?inid=avastcom-homepage_topnav_id
+                - generic [ref=e74]: Účet
+    - generic [ref=e78]:
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - heading "Špičkově hodnocený bezplatný antivirus nyní s ochranou před online podvody a malwarem" [level=1] [ref=e88]:
+            - text: Špičkově hodnocený
+            - generic [ref=e89]: bezplatný antivirus
+            - text: nyní s ochranou před online podvody a malwarem
+          - paragraph [ref=e91]:
+            - text: Přidejte se k milionům uživatelů našeho
+            - link "bezplatného antiviru" [ref=e92] [cursor=pointer]:
+              - /url: https://www.avast.com/cs-cz/free-antivirus-download
+            - text: . Posilte svou obranu před dnešními kybernetickými hrozbami a online podvody. Získejte od našeho nového
+            - strong [ref=e93]: Avast asistenta
+            - text: pokyny k ochraně proti podvodům vytvořené pomocí AI.
+          - link "Stáhnout zdarma" [ref=e97] [cursor=pointer]:
+            - /url: https://www.avast.com/cs-cz/download-thank-you?product=MAC-FREE-ONLINE-HP&locale=cs-cz&direct=1
+            - generic:
+              - paragraph: Stáhnout zdarma
+          - paragraph [ref=e102]:
+            - text: K dispozici také pro
+            - strong [ref=e103]:
+              - link "PC" [ref=e104] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/download-thank-you?product=FAV-ONLINE-HP&locale=cs-cz&direct=1
+            - text: ","
+            - strong [ref=e105]:
+              - link "Android" [ref=e106] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/download-thank-you?product=AMS&locale=cs-cz&direct=1
+            - text: a
+            - strong [ref=e107]:
+              - link "iOS" [ref=e108] [cursor=pointer]:
+                - /url: https://www.avast.com/cs-cz/download-thank-you?product=IMS&locale=cs-cz&direct=1
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - img "AV-Comparatives" [ref=e116]
+              - generic [ref=e117]:
+                - generic [ref=e118]: Leden 2025
+                - paragraph [ref=e120]: Nejlépe hodnocený produkt roku 2024
+            - generic [ref=e121]:
+              - img "AV-test.org" [ref=e124]
+              - generic [ref=e125]:
+                - generic [ref=e126]: Leden 2024
+                - paragraph [ref=e128]: Nejlepší ochrana
+            - link "Excellent Average Star Rating 37143 reviews on TrustPilot Logo" [ref=e130] [cursor=pointer]:
+              - /url: https://trustpilot.com/review/avast.com
+              - generic [ref=e131]:
+                - paragraph [ref=e132]: Excellent
+                - img "Average Star Rating" [ref=e133]
+                - paragraph [ref=e134]: 37143 reviews on
+                - img "TrustPilot Logo" [ref=e135]
+        - img "Index hero" [ref=e138]
+      - generic [ref=e142]:
+        - paragraph [ref=e148]: Pokyny k ochraně před podvody od AI
+        - paragraph [ref=e154]:
+          - text: Blokování skrytých
+          - text: webových podvodů
+        - paragraph [ref=e160]: Snadná instalace a používání
+        - paragraph [ref=e166]: Miliony uživatelů po celém světě
+    - generic [ref=e167]:
+      - generic [ref=e174]:
+        - generic [ref=e179]:
+          - img "Ikona – Antivirus" [ref=e182]
+          - paragraph [ref=e185]: Avast Free Antivirus
+        - generic [ref=e190]:
+          - heading "Pořiďte si bezplatný antivirus s pokročilými nástroji na ochranu soukromí a zabezpečení" [level=2] [ref=e195]
+          - paragraph [ref=e198]: Avast Free Antivirus je víc než pouhý antivirus – obsahuje také tyto speciální nástroje. Náš nový Avast asistent navíc poskytuje pokyny v reálném čase na ochranu před potenciálními podvody.
+        - generic [ref=e202]:
+          - generic [ref=e210]:
+            - heading "Pokyny k ochraně před podvody od AI" [level=6] [ref=e211]
+            - generic [ref=e212]: Na základě pokynů, které vám v reálném čase nabízí náš Avast Asistent ohledně podezřelých online zpráv, nabídek a jiných hrozeb, se můžete rozhodnout, zda jsou tyto online zprávy nebo nabídky podvodné.
+          - generic [ref=e220]:
+            - heading "Snadná instalace a použití" [level=6] [ref=e221]
+            - generic [ref=e222]: Avast Free Antivirus si nainstalujete během chvíle. Následně poběží tiše na pozadí a v reálném čase vám bude pomáhat v nepřetržité ochraně před viry a dalším malwarem.
+          - generic [ref=e230]:
+            - heading "Zabezpečení Wi-Fi sítě" [level=6] [ref=e231]
+            - generic [ref=e232]: Umožní vám bezpečněji se připojit ke každé Wi-Fi síti (včetně nezabezpečených veřejných sítí), zjišťovat, kdo používá vaši domácí Wi-Fi síť, a blokovat nezvané hosty pouhým kliknutím.
+          - generic [ref=e240]:
+            - heading "Ochrana před útoky ransomwaru" [level=6] [ref=e241]
+            - generic [ref=e242]: Pomáhá chránit vaše data. Nedovolte, aby se vaše osobní fotografie, soubory a dokumenty staly rukojmím hackerů používajících ransomware.
+      - generic [ref=e251]:
+        - link "Stáhnout zdarma" [ref=e254] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/download-thank-you?product=MAC-FREE-ONLINE-HP&locale=cs-cz&direct=1
+          - generic:
+            - paragraph: Stáhnout zdarma
+        - link "Další informace" [ref=e258] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/free-antivirus-download
+          - generic: Další informace
+    - generic [ref=e276]:
+      - generic [ref=e278]:
+        - generic [ref=e279]:
+          - img "Avast Premium Security" [ref=e281]
+          - text: Avast Premium Security
+        - heading "Vylepšené digitální zabezpečení pro počítače s Windows či macOS a mobilní zařízení" [level=2] [ref=e284]
+      - generic [ref=e285]:
+        - paragraph [ref=e290]:
+          - text: Chcete mít v digitálním světě větší jistotu? Používejte naše automatické
+          - link "kyberbezpečnostní" [ref=e291] [cursor=pointer]:
+            - /url: https://www.avast.com/cs-cz/c-computer-virus
+          - text: štíty proti podvodům, virům,
+          - link "ransomwaru" [ref=e292] [cursor=pointer]:
+            - /url: https://www.avast.com/cs-cz/c-ransomware
+          - text: ", doposud neznámým hrozbám a dalším typům malwaru."
+          - text: "Navíc vám pomůžeme:"
+        - generic [ref=e297]:
+          - paragraph [ref=e304]:
+            - strong [ref=e305]: Novinka
+            - text: ": Získat od Avast asistenta rychlé pokyny k ochraně proti podvodům vytvořené pomocí AI."
+          - paragraph [ref=e312]: Blokovat podvodné weby a e-maily a chránit se před nimi s využitím AI.
+          - paragraph [ref=e319]: Chránit vaše osobní údaje a webovou kameru před hackery.
+        - link "Pořídit Premium Security" [ref=e323] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/premium-security
+          - generic:
+            - paragraph: Pořídit Premium Security
+    - generic [ref=e337]:
+      - generic [ref=e339]:
+        - generic [ref=e340]: Avast SecureLine VPN
+        - heading "Zvolte VPN pro větší soukromí na internetu" [level=2] [ref=e344]
+      - generic [ref=e345]:
+        - paragraph [ref=e348]:
+          - text: Zabraňte poskytovatelům připojení ve sledování vašich aktivit, obcházejte geografická omezení online obsahu a zajistěte si bezpečí na veřejných Wi-Fi sítích pomocí
+          - link "virtuální privátní sítě (VPN)" [ref=e349] [cursor=pointer]:
+            - /url: https://www.avast.com/cs-cz/secureline-vpn
+          - text: od Avastu.
+        - link "Prozkoumat VPN" [ref=e353] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/secureline-vpn
+          - generic:
+            - paragraph: Prozkoumat VPN
+    - generic [ref=e367]:
+      - generic [ref=e369]:
+        - generic [ref=e370]: Avast Cleanup Premium
+        - heading "Užijte si více místa v úložišti a rychlejší zařízení" [level=2] [ref=e373]
+      - generic [ref=e374]:
+        - paragraph [ref=e377]: Uvolněte v úložišti gigabajty místa a smazáním nepořádku, jako jsou zapomenuté soubory, bloatware a nevyžádané programy, obnovte původní výkon svého zařízení. Avast Cleanup také automaticky aktualizuje software, uspává náročné aplikace a mnohem více.
+        - link "Prozkoumat Cleanup" [ref=e381] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/cleanup
+          - generic:
+            - paragraph: Prozkoumat Cleanup
+    - generic [ref=e404]:
+      - heading "Snadno se instaluje – přechod na Avast zabere pár sekund" [level=2] [ref=e409]
+      - generic [ref=e410]:
+        - paragraph [ref=e413]: Mnohokrát oceněný antivirus od Avastu můžete rovnou začít používat. Rychle a snadno se nainstaluje a poskytuje veškerou potřebnou ochranu pro váš online život. A navíc je úplně zdarma, tak si ho hned vyzkoušejte.
+        - link "Stáhnout zdarma" [ref=e417] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/download-thank-you?product=MAC-FREE-ONLINE-HP&locale=cs-cz&direct=1
+          - generic: Stáhnout zdarma
+    - generic [ref=e424]:
+      - heading "Avast má stovky milionů uživatelů po celém světě" [level=2] [ref=e427]
+      - generic [ref=e433]:
+        - generic [ref=e438]:
+          - paragraph [ref=e440]: Používám Avast už několik let. Za tu cenu jde o nejlepší ochranu. Chráním Avastem taky telefony a ještě nikdy jsem neměla žádný problém.
+          - generic [ref=e442]:
+            - heading "Carol J." [level=6] [ref=e443]
+            - paragraph [ref=e444]: 12. 9. 2023
+        - generic [ref=e449]:
+          - paragraph [ref=e451]: "Používám Avast spoustu let. Důvod je prostý: nabízí skvělou bezplatnou verzi, která skutečně funguje. Díky tomu si můžu v případě potřeby dovolit další skvělé služby, které nabízí – třeba Avast Cleanup."
+          - generic [ref=e453]:
+            - heading "James M." [level=6] [ref=e454]
+            - paragraph [ref=e455]: 29. 8. 2023
+        - generic [ref=e460]:
+          - paragraph [ref=e462]: Používám Avast Free Antivirus na počítačích, tabletech a chytrých telefonech spoustu let. Aktualizuje se často a automaticky. Provádí automatické testy a chrání mě před škodlivými weby. Dělá to, co potřebuji. Co víc si můžu přát?
+          - generic [ref=e464]:
+            - heading "OB" [level=6] [ref=e465]
+            - paragraph [ref=e466]: 10. 6. 2023
+      - generic [ref=e471]:
+        - paragraph [ref=e477]: „Avast jako uznávaný specialista na zabezpečení získal celkem tři ocenění za vynikající výkon... ukazuje, jak spolehlivě a bezpečně plní bezpečnostní software své funkce...“
+        - paragraph [ref=e483]: Ocenění Nejlépe hodnocený produkt roku 2024 od AV-Comparatives
+    - generic [ref=e488]:
+      - paragraph [ref=e498]: Avast Free Antivirus
+      - generic [ref=e501]:
+        - heading "Zajišťujeme větší bezpečí uživatelů po celém světě" [level=2] [ref=e504]
+        - paragraph [ref=e507]: Díky aktuálním bezpečnostním datům od stovek milionů uživatelů Avastu dokážeme každý den zablokovat přes 66 milionů hrozeb.
+        - link "Stáhnout bezplatnou ochranu" [ref=e516] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/download-thank-you?product=MAC-FREE-ONLINE-HP&locale=cs-cz&direct=1
+          - generic:
+            - paragraph: Stáhnout bezplatnou ochranu
+    - generic [ref=e526]:
+      - generic [ref=e527]:
+        - generic [ref=e528]:
+          - img "avast." [ref=e531]
+          - button "Česká republika" [ref=e533] [cursor=pointer]:
+            - generic [ref=e534]: Česká republika
+          - generic [ref=e535]:
+            - link "Facebook" [ref=e536] [cursor=pointer]:
+              - /url: https://www.facebook.com/avast
+              - img "Facebook" [ref=e537]
+            - link "Instagram" [ref=e538] [cursor=pointer]:
+              - /url: https://www.instagram.com/avast
+              - img "Instagram" [ref=e539]
+            - link "Twitter" [ref=e540] [cursor=pointer]:
+              - /url: https://twitter.com/Avast
+              - img "Twitter" [ref=e541]
+            - link "YouTube" [ref=e542] [cursor=pointer]:
+              - /url: https://www.youtube.com/avast
+              - img "YouTube" [ref=e543]
+        - generic [ref=e544]:
+          - generic [ref=e545]:
+            - generic [ref=e546]: Domácnosti
+            - list [ref=e548]:
+              - listitem [ref=e549]:
+                - link "Podpora" [ref=e550] [cursor=pointer]:
+                  - /url: https://support.avast.com/
+              - listitem [ref=e551]:
+                - link "Zabezpečení" [ref=e552] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/free-antivirus-download
+              - listitem [ref=e553]:
+                - link "Soukromí" [ref=e554] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/secureline-vpn
+              - listitem [ref=e555]:
+                - link "Výkon" [ref=e556] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/cleanup
+              - listitem [ref=e557]:
+                - link "Blog" [ref=e558] [cursor=pointer]:
+                  - /url: https://blog.avast.com/
+          - generic [ref=e559]:
+            - generic [ref=e560]: Firmy
+            - list [ref=e562]:
+              - listitem [ref=e563]:
+                - link "Podpora pro firmy" [ref=e564] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/business/support
+              - listitem [ref=e565]:
+                - link "Produkty pro firmy" [ref=e566] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/business
+              - listitem [ref=e567]:
+                - link "Obchodní partneři" [ref=e568] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/business/partners
+              - listitem [ref=e569]:
+                - link "Blog Avast Business" [ref=e570] [cursor=pointer]:
+                  - /url: https://blog.avast.com/topic/business-security
+              - listitem [ref=e571]:
+                - link "Affiliate partneři" [ref=e572] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/business/affiliates
+          - generic [ref=e573]:
+            - generic [ref=e574]: Partneři
+            - list [ref=e576]:
+              - listitem [ref=e577]:
+                - link "Mobilní operátoři" [ref=e578] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/mno
+          - generic [ref=e579]:
+            - generic [ref=e580]: Informace
+            - list [ref=e582]:
+              - listitem [ref=e583]:
+                - link "Kontaktujte nás" [ref=e584] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/contacts
+              - listitem [ref=e585]:
+                - link "Kariéra" [ref=e586] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/careers
+              - listitem [ref=e587]:
+                - link "Tiskové oddělení" [ref=e588] [cursor=pointer]:
+                  - /url: https://press.avast.com/
+              - listitem [ref=e589]:
+                - link "Digitální důvěra" [ref=e590] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/digital-trust
+              - listitem [ref=e591]:
+                - link "Technologie" [ref=e592] [cursor=pointer]:
+                  - /url: https://www.avast.com/cs-cz/technology
+      - paragraph [ref=e595]: © 2025 Gen Digital Inc. Všechna práva vyhrazena.
+      - generic [ref=e596]:
+        - link "Zásady zpracování osobních údajů" [ref=e597] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/privacy-policy
+        - link "Produktové zásady zpracování" [ref=e598] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/products-policy
+        - link "Právní informace" [ref=e599] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/legal
+        - link "Nahlásit zranitelnost" [ref=e600] [cursor=pointer]:
+          - /url: https://www.avast.com/coordinated-vulnerability-disclosure
+        - link "Prohlášení o novodobém otroctví" [ref=e601] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/content/dam/avast/miscellaneous/pdfs/Avast-Modern-Slavery-Statement-2022.pdf
+        - link "Podrobnosti o předplatném" [ref=e602] [cursor=pointer]:
+          - /url: https://www.avast.com/cs-cz/subscription-details
+        - button "Předvolby souborů cookie" [ref=e603] [cursor=pointer]
+  - dialog "Consent Banner" [active] [ref=e604]:
+    - dialog [ref=e605]:
+      - generic [ref=e607]:
+        - generic [ref=e608]: Záleží nám na vašem soukromí
+        - generic [ref=e609]:
+          - text: Kliknutím na tlačítko OK povolíte používání cookies, které usnadňují navigaci na našem webu, pomáhají nám analyzovat fungování a používání našeho webu a umožňují nám zobrazovat relevantní marketingový obsah a poskytovat personalizovanou reklamu na naše produkty. Nastavení cookies můžete spravovat níže. Podívejte se na
+          - link "pravidla cookies" [ref=e610] [cursor=pointer]:
+            - /url: https://www.avast.com/cs-cz/cookies-policy
+          - text: .
+        - generic [ref=e611]:
+          - button "OK" [ref=e612] [cursor=pointer]
+          - button "Odmítnout vše" [ref=e613] [cursor=pointer]
+          - button "Spravovat" [ref=e614] [cursor=pointer]
+```
