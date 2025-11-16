@@ -1,25 +1,30 @@
 import { Page } from '@playwright/test';
 
-// Универсальная функция для закрытия cookie-баннера на разных языках
 export async function closeCookies(page: Page) {
   const selectors = [
+    // Чешский баннер
+    'text=OK',
+    'text=Odmítnout vše',
+    'text=Spravovat',
+
+    // Дополнительные языки
     'text=Accept all',
     'text=I agree',
-    'text=Souhlasím',
-    'text=Zamítnout vše',
-    'text=Přijmout vše',
     'text=Got it',
+    'text=Souhlasím',
+    'text=Přijmout vše'
   ];
 
   for (const sel of selectors) {
+    const btn = page.locator(sel).first();
     try {
-      const btn = page.locator(sel).first();
-      if (await btn.isVisible()) {
-        await btn.click();
-        break;
+      if (await btn.isVisible({ timeout: 500 })) {
+        await btn.click({ timeout: 2000 });
+        return; 
       }
     } catch {
-      // Если элемент не найден — просто идём дальше
+      // просто пробуем следующий селектор
     }
   }
 }
+

@@ -1,4 +1,4 @@
-import { defineConfig } from '@playwright/test';
+import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
@@ -20,12 +20,30 @@ export default defineConfig({
       }
     ]
   ],
+
   projects: [
+    // ------------------------------
+    // Desktop project: Avast Browser
+    // ------------------------------
     {
       name: 'Avast Secure Browser',
       use: {
-        executablePath: '/Applications/Avast Secure Browser.app/Contents/MacOS/Avast Secure Browser',
+        executablePath:
+          '/Applications/Avast Secure Browser.app/Contents/MacOS/Avast Secure Browser',
         viewport: { width: 1280, height: 800 },
+      },
+    },
+
+    // ------------------------------
+    // Mobile project: iPhone 13
+    // ------------------------------
+    {
+      name: 'iPhone 13',
+      use: {
+        ...devices['iPhone 13'],
+        screenshot: 'on',
+        video: 'on',
+        trace: 'on',
       },
     },
   ],
